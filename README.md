@@ -1,9 +1,7 @@
-# ShopEasy — Publish-ready E-commerce Demo
+# ShopEasy
 
-This is a portfolio/project-presentation version of the uploaded MERN e-commerce project.
 
 ## Important
-This version is intentionally **server-independent demo mode**. It simulates:
 - Registration and login
 - User/admin role-based access
 - Product catalog, search and categories
@@ -18,15 +16,6 @@ This version is intentionally **server-independent demo mode**. It simulates:
 - Persistent data using browser localStorage
 
 No real payment is made and no real email is sent.
-
-## Run locally
-
-```bash
-npm install
-npm run dev
-```
-
-Open the Vite URL shown in the terminal.
 
 ## Build for deployment
 
